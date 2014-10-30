@@ -41,7 +41,11 @@ Coming soon!
 
 == Screenshots ==
 
-Coming soon!
+1. NS Slidebar Options Page 
+2. NS Slidebar Closed
+3. Full Sidebar Open and Style your own with using your own CSS
+4. Sidebar with widgets before searching
+5. Sidebar with search results and widgets
 
 == Changelog ==
 
