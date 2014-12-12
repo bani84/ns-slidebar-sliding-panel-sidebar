@@ -82,7 +82,7 @@ body.admin-bar #ns-slidebar {
 #ns-slidebar-search-form form {
 	padding: 1em 1.6em;
 	background: #303030;
-	background-image: url(/wp-content/plugins/ns-slidebar/images/close-red-icon.png);
+	background-image: url(/wp-content/plugins/ns-slidebar-sliding-panel-sidebar/images/close-red-icon.png);
 	background-repeat: no-repeat;
 	background-size: contain;
 	cursor: pointer;
